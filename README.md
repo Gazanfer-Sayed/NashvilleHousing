@@ -1,7 +1,11 @@
 # Nashville Housing Data Cleaning in SQL
 
 
-Description: I recently completed a comprehensive data cleaning project on the Nashville Housing dataset using SQL Server. Here are the key steps I took:
+Description: This SQL based project delves into an important step of data analysis called **Data Cleaning**.
+
+Data Cleaning: Data cleaning is the process of detecting and rectifying faults or inconsistencies in dataset by scrapping or modifying them to fit the definition of quality data for analysis. It is an essential activity in data preprocessing as it determines how the data will be used and processed in other modeling processes.
+
+Here are the steps taken in this comprehensive data cleaning project to ensure data quality and consistensy:
 
 1. Standardizing Date Formats: I used the `CONVERT` function to ensure consistent date formats across the dataset, improving data accuracy and analysis.
 
